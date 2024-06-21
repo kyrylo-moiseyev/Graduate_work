@@ -96,6 +96,8 @@ def recognize(data, vectorizer, clf):
 
          
 def main():
+
+
     '''
     Обучаем матрицу ИИ
     и постоянно слушаем микрофон
